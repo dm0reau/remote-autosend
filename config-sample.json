@@ -1,0 +1,11 @@
+{
+  "my_name": "<your name>",
+  "receiver_name": "<manager's receiver name>",
+  "smtp_host": "smtp.gmail.com",
+  "smtp_port": "465",
+  "smtp_ssl": true,
+  "smtp_user": "<your SMTP username>",
+  "smtp_password": "<your SMTP password>",
+  "smtp_email_from": "<your email>",
+  "smtp_email_to": "<manager's mail>"
+}

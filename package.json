@@ -1,0 +1,23 @@
+{
+  "name": "remote-autosend",
+  "version": "1.0.0",
+  "description": "Petit script permettant d'envoyer un mail pour le télétravail",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "remote",
+    "mail",
+    "auto"
+  ],
+  "author": "David Moreau",
+  "license": "WTFPL",
+  "devDependencies": {},
+  "dependencies": {
+    "ejs": "^2.7",
+    "moment": "^2.24.0",
+    "nodemailer": "^6"
+  }
+}
