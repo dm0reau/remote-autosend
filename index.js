@@ -1,5 +1,6 @@
 #!/usr/bin/node
-
 const { sendMail } = require('./lib/mail');
+const { getDateArg } = require('./lib/args');
 
-sendMail();
+const givenDate = getDateArg();
+sendMail(givenDate);

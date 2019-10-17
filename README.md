@@ -13,7 +13,17 @@ Copiez le fichier _config-sample.json_ dans un nouveau fichier _config.json_, pu
 
 ## Exécution
 
-Lancez le script via la commande `node index.js`.
+Lancez le script via la commande `node index.js`. Par défaut, le jour de télétravail indiqué est celui
+de demain. Il est possible de le changer via ces possibilités :
+
+```
+# Pour demain (par défaut)
+node index.js tomorrow
+# Pour aujourd'hui
+node index.js today
+# Pour le 30 janvier 2019
+node index.js 2019-01-30
+```
 
 ## Contenu du mail
 
