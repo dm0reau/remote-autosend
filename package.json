@@ -16,8 +16,8 @@
   "license": "WTFPL",
   "devDependencies": {},
   "dependencies": {
-    "ejs": "^2.7",
+    "ejs": "^2.7.4",
     "moment": "^2.24.0",
-    "nodemailer": "^6"
+    "nodemailer": "^6.4.0"
   }
 }
