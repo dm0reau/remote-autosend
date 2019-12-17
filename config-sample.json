@@ -1,5 +1,6 @@
 {
   "my_name": "<your name>",
+  "address": "<your address>",
   "receiver_name": "<manager's receiver name>",
   "smtp_host": "smtp.gmail.com",
   "smtp_port": "465",
